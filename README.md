@@ -103,14 +103,6 @@ Public repositories are reserved for projects, experiments and components suitab
 
 ---
 
-## Repository Policy
-
-Production source code and internal project infrastructure are generally kept private.
-
-Public repositories may contain standalone tools, technical experiments, reusable components and projects intended for public distribution.
-
----
-
 <div align="center">
 
 <sub>Aven · Software Developer</sub>
